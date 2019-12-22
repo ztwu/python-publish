@@ -1,0 +1,6 @@
+printtest.py
+setup.py
+printtest.egg-info/PKG-INFO
+printtest.egg-info/SOURCES.txt
+printtest.egg-info/dependency_links.txt
+printtest.egg-info/top_level.txt
