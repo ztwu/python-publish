@@ -5,4 +5,5 @@ whltest/print2.py
 whltest.egg-info/PKG-INFO
 whltest.egg-info/SOURCES.txt
 whltest.egg-info/dependency_links.txt
+whltest.egg-info/requires.txt
 whltest.egg-info/top_level.txt

@@ -15,6 +15,6 @@ setup(name='whltest',
             'Tracker': 'https://github.com/pypa/sampleproject/issues',
       },
       packages=['whltest'],
-      # install_requires=['numpy>=1.14', 'tensorflow>=1.7'],
+      install_requires=['numpy>=1.14', 'tensorflow>=1.7'],
       python_requires='>=3'
      )
